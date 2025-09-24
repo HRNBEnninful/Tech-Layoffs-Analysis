@@ -127,8 +127,8 @@ MIT License – feel free to use and modify.
 
 ## 📬 Contact
 Henry Reynolds Nana Benyin Enninful
-📧 Email: hrnbenninful@gmail.com
-🐙 GitHub: @HRNBEnninful
-💼 LinkedIn: https://www.linkedin.com/in/henryrnbenninful/
+- 📧 Email: hrnbenninful@gmail.com
+- 🐙 GitHub: @HRNBEnninful
+- 💼 LinkedIn: https://www.linkedin.com/in/henryrnbenninful/
 
 ---
