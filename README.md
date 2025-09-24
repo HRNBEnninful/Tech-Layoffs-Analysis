@@ -1,4 +1,4 @@
-# 🚗 Tech Layoffs Analysis & Survival Modeling
+# 🚗 Tech Lay-offs Analysis & Survival Modeling
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)  
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5.2-yellow.svg)](https://scikit-learn.org/stable/)  
